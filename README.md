@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Milimar16
-- 👀 I’m interested in procedural animation and linux distributions
+- 👀 I’m interested in procedural animation and linux
 - 🌱 I’m currently learning C++
 - 📫 How to reach me: marek.milichovsky@gmail.com
 - 😄 Pronouns: he/him
