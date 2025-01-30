@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Milimar16
 - 👀 I’m interested in procedural animation and linux
-- 🌱 I’m currently learning C, C++ and Vim
+- 🌱 I’m currently learning C and Vim
 - 📫 How to reach me: marek.milichovsky@gmail.com
 - 😄 Pronouns: he/him
 
